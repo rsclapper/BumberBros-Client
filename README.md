@@ -3,7 +3,7 @@
 # Bumper Game README
 
 ## Overview
-Bumper is a turn-based strategy game where up to 4 players navigate a grid to collect power-ups and engage in combat. Players input their movement directions and the game executes them in sequence. The goal is to outmaneuver and outfight your opponents using strategic moves and power-ups.
+BumperBros is a turn-based strategy game where up to 4 players navigate a grid to collect power-ups and engage in combat. Players input their movement directions and the game executes them in sequence. The goal is to outmaneuver and outfight your opponents using strategic moves and power-ups.
 
 ## Features
 - **Turn-based gameplay**: Players take turns to move their tokens on the board.
